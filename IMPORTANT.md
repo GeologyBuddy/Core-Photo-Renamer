@@ -16,9 +16,11 @@ The software is safe to run, and you can proceed using one of the methods below.
 If the warning window appears:
 
 1. Click **More info**
-2. Click **Run anyway**
+<img width="333" height="312" alt="Screenshot 2026-05-09 211325" src="https://github.com/user-attachments/assets/c0deab17-72af-42b6-be17-1919a17060bc" />
 
-📷 Please refer to the included screenshots for guidance.
+2. Click **Run anyway**
+<img width="333" height="312" alt="Screenshot 2026-05-09 211337" src="https://github.com/user-attachments/assets/75c10b1b-d5d3-495c-95ab-8425d97a65e8" />
+
 
 ---
 
