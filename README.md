@@ -2,7 +2,7 @@
 
 > Bulk-rename drill core photo photos using interval data — hole by hole, fast and accurately.
 
-<img width="501" height="407" alt="image" src="https://github.com/user-attachments/assets/04e69135-ac8b-439b-8bdc-8356139763d1" />
+<img width="501" height="407" alt="Screenshot-GB-CoreNamer-2026" src="https://github.com/user-attachments/assets/aa1fbac9-6369-4052-ac4a-db5c5b0fcf0f" />
 
 
 ---
